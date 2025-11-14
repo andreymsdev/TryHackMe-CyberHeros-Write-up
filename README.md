@@ -91,7 +91,13 @@ The attack path was:
 * **Directory listing enabled** → unnecessary exposure of files.
 
 ---
+<p align="left">
+   <a href="https://tryhackme.com/p/Tux10">
+    <img src="./images/tryhackme.png" alt="TryHackMe" width="100">
+  </a>
+  <a href="https://medium.com/@andreymsdev/tryhackme-cyberheros-write-up-13cf0474cdb6">
+    <img src="./images/medium.png" alt="Medium" width="295">
+  </a>
+</p>
 
-[![medium](./images/medium.png)](https://medium.com/@andreymsdev/tryhackme-cyberheros-write-up-13cf0474cdb6)
-[![tryhackmeprofile](./images/tryhackme.png)](https://tryhackme.com/p/Tux10)
-# TryHackMe-CyberHeros-Write-up
+
